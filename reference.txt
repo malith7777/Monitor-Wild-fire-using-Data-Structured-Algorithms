@@ -1,0 +1,7 @@
+#####
+
+used DSALinkedlist, DSAstck, DSAQueue in prac 04
+used DSAGraph in prac 06
+used DSAHashtable in  prac 07
+used DSAHeap in prac 08
+for online resources used w3school for dijkstra algorithm 

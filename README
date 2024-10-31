@@ -1,0 +1,44 @@
+## Synopsis
+
+author name:Malith Pramuditha
+author ID  :20926076
+
+Final Assignment of Data Structures and Algorithms COMP1002
+
+
+## Contents
+
+main.py - main file for run program
+maintest.py - main file for run unittest cases
+task1.py - included answers for task 1 and task 3
+graph.py - included answer for task 3
+Hashtable.py - included answer for task 4
+heap.py - included answer for task 5
+iter.py - included answer for task6
+DSALinkedList.py - class file
+DSAStack.py - class file
+DSAStack.py- class file
+Graph.py - class file
+Hash.py - class file
+Heap.py - class file
+UnitTestDSALinkedList.py - testharness for DSALinkedList.py 
+UnitTestDSAStack.py - testharness for DSAStack.py
+UnitTestDSAQueue.py - testharness for DSAStack.py
+UnitTestDSAGraph.py - testharness for Graph.py
+UnitTestDSAHashtable.py - testharness for Hash.py
+UnitTestDSAHeap.py - testharness for Heap.py
+location.txt
+UAVdata.txt
+G.txt
+D.txt
+Reference.txt
+
+##Dependencies
+none
+
+
+##version information
+
+28/05/2023 
+
+
